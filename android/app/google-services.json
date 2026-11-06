@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238137580802",
+    "project_id": "harshit-firebase-auth-lab",
+    "storage_bucket": "harshit-firebase-auth-lab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238137580802:android:d4d6c4b20101d99323b61b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYKzBpLDI0YZy-Oh0LAZp-YkcVmF8SXeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
